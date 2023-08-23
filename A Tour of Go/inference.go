@@ -1,6 +1,8 @@
 package inference
 
-import "fmt"
+import (
+	"fmt"
+)
 
 // Type inference
 func main() {

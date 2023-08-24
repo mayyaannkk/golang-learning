@@ -1,4 +1,4 @@
-# Difference between Handler, HandlerFun, Handle, and HandleFunc?
+# D ?
 
 When we use http.ListenAndServe() it takes 2 arguments:
 

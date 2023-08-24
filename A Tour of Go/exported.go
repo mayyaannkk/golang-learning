@@ -1,4 +1,4 @@
-package exported
+package tourOfGo
 
 import (
 	"fmt"

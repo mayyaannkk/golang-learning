@@ -1,4 +1,4 @@
-package inference
+package tourOfGo
 
 import (
 	"fmt"

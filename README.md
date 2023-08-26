@@ -6,6 +6,10 @@
 
 ---
 
+## To Do
+
+- [Five suggestions for setting up a Go project](https://dave.cheney.net/2014/12/01/five-suggestions-for-setting-up-a-go-project)
+
 ## Doubts
 
 1. [Handler-Handle-HandleFunc-HandlerFunc](Doubts/Handler-Handle-HandleFunc-HandlerFunc.md)

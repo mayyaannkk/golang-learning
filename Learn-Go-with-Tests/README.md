@@ -1,3 +1,11 @@
+## Path
+
+1. [Hello World][hello.go] - [Testing hello world](hello_test.go)
+
+---
+
+## Notes
+
 Writing a test is just like writing a function, with a few rules:
 
 1. It needs to be in a file with a name like `xxx_test.go`

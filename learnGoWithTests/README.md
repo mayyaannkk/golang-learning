@@ -1,6 +1,7 @@
 ## Path
 
-1. [Hello World][hello.go] - [Testing hello world](hello_test.go)
+1. [Hello World](helloworld/hello.go) - [Testing hello world](helloworld/hello_test.go)
+2. [Intgers main](integers/adder.go) - [Testing Integers](integers/adder_test.go)
 
 ---
 

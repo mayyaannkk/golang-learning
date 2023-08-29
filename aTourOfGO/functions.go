@@ -24,7 +24,9 @@ func split(sum int) (x, y int) {
 	return
 }
 
-func main() {
+func RunFunctions() {
 	fmt.Println(concat("abc", "def"))
 	fmt.Println(add(42, 13))
+	fmt.Println(swap("hello", "world"))
+	fmt.Println(split(123))
 }

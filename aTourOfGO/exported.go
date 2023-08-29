@@ -7,6 +7,6 @@ import (
 
 // Only those variables can be exported which start with a capital letter
 // Here math has Pi as exported variable and not pi
-func main() {
+func CheckExported() {
 	fmt.Println(math.Pi)
 }

@@ -6,11 +6,11 @@ import (
 )
 
 func TestAdder(t *testing.T) {
-	got := adder(2, 2)
+	got := Add(2, 2)
 	want := 4
 
 	if got != want {
-		t.Errorf("want %q got %q", want, got)
+		t.Errorf("Expected: %d, and got: %d", want, got)
 	}
 }
 

@@ -16,6 +16,6 @@ func Sqrt(x float64) float64 {
 	return z
 }
 
-func main() {
+func FindSqrt() {
 	fmt.Println(Sqrt(25))
 }
